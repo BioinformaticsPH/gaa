@@ -6,6 +6,6 @@ color_scheme: light
 search_enabled: true
 
 aux_links:
-  "GitHub Repo": "https://github.com/jdetras/gaa"
+  "GitHub Repo": "https://github.com/bioinformaticsph/gaa"
 
 footer_content: "© 2026 IRRI Bioinformatics"
