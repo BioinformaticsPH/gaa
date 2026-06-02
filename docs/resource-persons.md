@@ -11,7 +11,6 @@ The following experts will be facilitating the Genome Assembly and Annotation Wo
 
 | Name | Title | Affiliation |
 | :--- | :--- | :--- |
-| **Victor Jun Ulat** | Applied Bioinformatics Specialist | CIMMYT |
 | **Ramil Mauleon** | Senior Scientist I – Bioinformatics & Genomics | IRRI |
 | **Jeffrey Detras** | Senior Specialist – Bioinformatics | IRRI |
 | **Lord Hendrix Barboza** | Specialist – Data Management | IRRI |
