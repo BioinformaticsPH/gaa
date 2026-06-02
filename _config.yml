@@ -1,0 +1,11 @@
+title: GAA Workshop
+description: Genome Assembly and Annotation Workshop
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+search_enabled: true
+
+aux_links:
+  "GitHub Repo": "https://github.com/jdetras/gaa"
+
+footer_content: "© 2026 IRRI Bioinformatics"
