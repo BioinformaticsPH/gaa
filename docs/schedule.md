@@ -58,7 +58,7 @@ permalink: /schedule/
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">13:00 – 15:00</td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;"><strong>Hands-on 2:</strong> Long Reads Assembly Part 1</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;"><a href="https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/tutorial.html#large-genome-assembly-and-polishing" target="_blank">GTN: Large Genome Assembly and Polishing</a></td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;"><a href="https://training.galaxyproject.org/training-material/topics/assembly/tutorials/hifi-assembly/tutorial.html" target="_blank">Genome assembly using PacBio data</a></td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">Riza May Pasco</td>
     </tr>
     <tr>
