@@ -47,7 +47,7 @@ Using *Xanthomonas oryzae* pv. *oryzae* Illumina reads as a model organism.
 Using a subset of rice (*Oryza sativa*) chromosome 9 PacBio data.
 
 **Galaxy Training Network tutorial:**
-[Large Genome Assembly and Polishing](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/tutorial.html#large-genome-assembly-and-polishing)
+[Genome assembly using PacBio data](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/hifi-assembly/tutorial.html)
 
 **Key tools used:**
 - **Flye** — de novo assembler for single-molecule long reads
