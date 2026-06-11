@@ -7,12 +7,12 @@ permalink: /resource-persons/
 
 # Resource Persons
 
-The following experts will be facilitating the Genome Assembly and Annotation Workshop.
+The Genome Assembly and Annotation Workshop will be facilitated by the following:
 
 | Name | Title | Affiliation |
 | :--- | :--- | :--- |
-| **Ramil Mauleon** | Senior Scientist I – Bioinformatics & Genomics | IRRI |
-| **Jeffrey Detras** | Senior Specialist – Bioinformatics | IRRI |
-| **Lord Hendrix Barboza** | Specialist – Data Management | IRRI |
-| **Frances Nikki Borja** | Junior Specialist – Bioinformatics | IRRI |
-| **Riza May Pasco** | Junior Specialist – Bioinformatics | IRRI |
+| **Ramil Mauleon, PhD** | Senior Scientist I – Bioinformatics & Genomics
+| **Jeffrey Detras, PhD** | Senior Specialist – Bioinformatics
+| **Lord Hendrix Barboza** | Specialist – Data Management 
+| **Frances Nikki Borja** | Junior Specialist – Bioinformatics 
+| **Riza May Pasco** | Junior Specialist – Bioinformatics 
