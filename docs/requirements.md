@@ -28,7 +28,7 @@ This workshop uses cloud-based Galaxy servers, so computationally heavy tasks ru
 
 ## Galaxy Account
 
-All participants must have an active account on a Galaxy server before the workshop begins. If you do not have one, register at [usegalaxy.org](https://usegalaxy.org) or the designated training server provided by the organizers.
+All participants must have an active account on a Galaxy server before the workshop begins. If you do not have one, register at [usegalaxy.eu]((https://usegalaxy.eu/) or the designated training server provided by the organizers.
 
 ## Tools Pre-installed on Training Server
 
