@@ -9,8 +9,8 @@ permalink: /resource-persons/
 
 The Genome Assembly and Annotation Workshop will be facilitated by the following:
 
-| Name | Title | Affiliation |
-| :--- | :--- | :--- |
+| Name | Title |
+| :--- | :--- |
 | **Ramil Mauleon, PhD** | Senior Scientist I – Bioinformatics & Genomics
 | **Jeffrey Detras, PhD** | Senior Specialist – Bioinformatics
 | **Lord Hendrix Barboza** | Specialist – Data Management 
