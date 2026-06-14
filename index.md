@@ -36,6 +36,6 @@ Participants are required to bring their **personal laptops** for all hands-on a
 
 ## Organizer
 
-This workshop is organized by the **CGIAR Breeding and Research Services (BRS)** team, which provides capacity building and training on bioinformatics skills, headed by Dr. Ramil Mauleon and the **IRRI Bioinformatics Team**.
+This workshop is organized by the **CGIAR Breeding and Research Services (BRS)** team, which provides capacity building and training on bioinformatics skills, in partnership with the **University of the Philippines Los Baños - Philippine Genome Center (UPLB-PGC**) and the **Philippine Rice Research Institute (PhilRice)**.
 
 ---
