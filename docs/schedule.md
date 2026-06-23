@@ -20,7 +20,7 @@ permalink: /schedule/
 
     <tr style="background-color: #e8f2f8;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #1a5c8a; text-align: center;">
-        DAY 1 — Tuesday, June 23, 2026 &nbsp;|&nbsp; Genome Assembly
+        DAY 1 &nbsp;|&nbsp; Genome Assembly
       </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ permalink: /schedule/
 
     <tr style="background-color: #e8f2f8;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #1a5c8a; text-align: center;">
-        DAY 2 — Wednesday, June 24, 2026 &nbsp;|&nbsp; Genome Annotation
+        DAY 2 &nbsp;|&nbsp; Genome Annotation
       </td>
     </tr>
     <tr>
