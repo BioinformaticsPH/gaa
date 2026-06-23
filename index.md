@@ -12,7 +12,7 @@ nav_order: 0
 
 # Genome Assembly and Annotation Workshop
 
-## 08:00 – 17:00 PHT
+## Two-day training | 08:00 – 17:00 PHT
 
 This two-day workshop focuses on identifying and addressing gaps in genome assembly and annotation skills using the **Galaxy platform**. Through hands-on exercises with real-world data, participants will apply assembly and annotation workflows while highlighting challenges in parameter selection, workflow design, and result interpretation. Outputs from the workshop will inform future training and capacity-building efforts.
 
